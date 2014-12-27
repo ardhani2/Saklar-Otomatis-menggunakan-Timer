@@ -1,4 +1,4 @@
 Saklar-Otomatis-menggunakan-Timer
 =================================
 
-kodingan saklar timer pada atmega 8535 menggunakan cvavr2
+Kodingan saklar timer pada atmega 8535 menggunakan cvavr2, klik pada file Saklar Otomatis menggunakan Timer.c
